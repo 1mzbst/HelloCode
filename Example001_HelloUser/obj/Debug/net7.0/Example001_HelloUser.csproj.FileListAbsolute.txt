@@ -1,0 +1,15 @@
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\bin\Debug\net7.0\Example001_HelloUser.exe
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\bin\Debug\net7.0\Example001_HelloUser.deps.json
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\bin\Debug\net7.0\Example001_HelloUser.runtimeconfig.json
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\bin\Debug\net7.0\Example001_HelloUser.dll
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\bin\Debug\net7.0\Example001_HelloUser.pdb
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\obj\Debug\net7.0\Example001_HelloUser.csproj.AssemblyReference.cache
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\obj\Debug\net7.0\Example001_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\obj\Debug\net7.0\Example001_HelloUser.AssemblyInfoInputs.cache
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\obj\Debug\net7.0\Example001_HelloUser.AssemblyInfo.cs
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\obj\Debug\net7.0\Example001_HelloUser.csproj.CoreCompileInputs.cache
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\obj\Debug\net7.0\Example001_HelloUser.dll
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\obj\Debug\net7.0\refint\Example001_HelloUser.dll
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\obj\Debug\net7.0\Example001_HelloUser.pdb
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\obj\Debug\net7.0\Example001_HelloUser.genruntimeconfig.cache
+E:\DEVELOP\GEEKBRAINS\Инженер Програмист\Знакомство с языками программирования\Practice\Examples\Example001_HelloUser\obj\Debug\net7.0\ref\Example001_HelloUser.dll
