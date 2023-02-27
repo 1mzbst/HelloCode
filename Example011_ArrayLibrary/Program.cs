@@ -21,29 +21,29 @@ void PrintArray(int[] col)
     }
 }
 
-int Index(int[] collection, int find)
-{
-    int count = Collection.Length;
-    int index = 0;
+// int Index(int[] collection, int find)
+// {
+//     int count = Collection.Length;
+//     int index = 0;
 
-    while (index < count)
-    {
-        if (Collection[index] == find)
-        {
-            position = index;
-        }
-        index++;
-    }
-    return position;
-}
+//     while (index < count)
+//     {
+//         if (Collection[index] == find)
+//         {
+//             position = index;
+//         }
+//         index++;
+//     }
+//     return position;
+// }
 
-int[] array = new int[10];
+// int[] array = new int[10];
 
-FillArray(array);
-PrintArray(array);
-Console.WriteLine();
+// FillArray(array);
+// PrintArray(array);
+// Console.WriteLine();
 
-int pos = IndexOf(array, 4);
-Console.WriteLine(pos);
+// int pos = IndexOf(array, 4);
+// Console.WriteLine(pos);
 
 
